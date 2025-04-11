@@ -1,0 +1,2 @@
+# minicurso
+Minicurso Computação Quântica
